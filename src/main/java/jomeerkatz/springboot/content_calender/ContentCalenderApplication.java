@@ -10,8 +10,6 @@ import java.util.Arrays;
 public class ContentCalenderApplication {
 
 	public static <List> void main(String[] args) {
-        ConfigurableApplicationContext context = SpringApplication.run(ContentCalenderApplication.class, args);
-        String[] beans = context.getBeanDefinitionNames();
-        Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
+        SpringApplication.run(ContentCalenderApplication.class, args);
     }
 }
