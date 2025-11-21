@@ -97,8 +97,5 @@ spring.sql.init.mode=always
 - Configure an external relational database (e.g., PostgreSQL) and set datasource properties before running in production.
 - Consider enabling and configuring Actuator endpoint exposure and adding CORS rules before public deployment.
 
-## License
-Specify your project license here (e.g., MIT, Apache 2.0).
-
 ## Author Info
-Project by Jomeerkatz (placeholder). Update with preferred contact or profile links.
+Project by Jomeerkatz.
