@@ -1,24 +1,5 @@
 # 📘 **README.md — Content Calendar API (Spring Boot 3)**
 
-Perfekt Jo — damit kann ich jetzt das finale, hochprofessionelle README für dein GitHub-Repo erstellen.
-
-Ich baue folgende Screenshots ein (mit **klaren Platzhaltern**, die du später nur noch ersetzen musst):
-
-1. **Railway Deployment Screenshot**
-2. **Docker Container Screenshot**
-3. **API Response Screenshot (Postman / Browser / Thunder Client)**
-
-Ich setze sie an die **optimalen Stellen**, wo Recruiter sofort den Eindruck bekommen:
-👉 **„Der Typ deployt wirklich in Production und weiß, was er tut.“**
-
-Und jetzt kommt dein fertiges README — **ready to paste**.
-
----
-
-*Production-ready Spring Boot 3 API with PostgreSQL, H2, Docker, Profiles & Railway Deployment*
-
----
-
 ## 🚀 Project Summary
 
 The **Content Calendar API** is a full Spring Boot 3 backend application built as part of my advanced learning path.
@@ -115,32 +96,21 @@ It solves the questions every beginner backend engineer faces:
 # 🧪 Screenshots
 
 ### 📌 **Railway Deployment Screenshot**
-
-*Add your screenshot path here:*
-
-```
-![Railway Deployment](./screenshots/railway.png)
-```
+<img width="1460" height="805" alt="Screenshot 2025-11-22 at 6 11 39 PM" src="https://github.com/user-attachments/assets/b693a6e2-7579-400d-ad36-3915a2527603" />
 
 ---
 
 ### 🐳 **Docker Container Screenshot**
-
-*Add your screenshot path here:*
-
-```
-![Docker Containers](./screenshots/docker-containers.png)
-```
+<img width="773" height="415" alt="Screenshot 2025-11-22 at 6 13 45 PM" src="https://github.com/user-attachments/assets/5993292f-9c88-4dae-a884-daca9c293b20" />
+<img width="967" height="316" alt="Screenshot 2025-11-22 at 6 14 28 PM" src="https://github.com/user-attachments/assets/927a84ae-f3b9-462f-807d-fbdaaf715bec" />
+<img width="996" height="615" alt="Screenshot 2025-11-22 at 6 14 43 PM" src="https://github.com/user-attachments/assets/2556ae56-3159-4b44-9185-3564e7a4bc9d" />
 
 ---
 
 ### 📡 **API Response Screenshot (Postman / Thunder Client)**
-
-*Add your screenshot path here:*
-
-```
-![API Response](./screenshots/api-response.png)
-```
+<img width="1462" height="891" alt="image" src="https://github.com/user-attachments/assets/d7284879-eb51-454e-8dc8-c918ca11c6ab" />
+<img width="913" height="856" alt="image" src="https://github.com/user-attachments/assets/d9eef903-2181-402b-853b-ff3a9c850462" />
+<img width="910" height="858" alt="Screenshot 2025-11-22 at 6 17 39 PM" src="https://github.com/user-attachments/assets/aff53491-a537-4dbf-a484-265f2b950a70" />
 
 ---
 
