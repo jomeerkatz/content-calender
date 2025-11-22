@@ -277,18 +277,6 @@ This project made me more confident as a backend developer.
 
 ---
 
-# 🗺️ Roadmap
-
-* [ ] Add Swagger OpenAPI documentation
-* [ ] Add unit + integration tests
-* [ ] Add CI/CD pipeline
-* [ ] Add real frontend client
-* [ ] Add Spring Security + JWT
-* [ ] Add pagination, sorting, filtering
-* [ ] Enhance error handling & validations
-
----
-
 # 👤 Author
 
 **Jo — Java Backend Developer**
