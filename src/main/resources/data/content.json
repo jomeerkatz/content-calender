@@ -2,7 +2,7 @@
   {
     "id": null,
     "title": "My IntelliJ Setup",
-    "desc": "In this video, I walk you through my IntelliJ IDEA Setup for 2023.",
+    "description": "In this video, I walk you through my IntelliJ IDEA Setup for 2023.",
     "status": "PUBLISHED",
     "contentType": "VIDEO",
     "dateCreated": "2023-02-01T00:00:00.000000",
@@ -12,7 +12,7 @@
   {
     "id": null,
     "title": "Spring Boot Crash Course",
-    "desc": "A beginner-friendly crash course on Spring Boot 3.",
+    "description": "A beginner-friendly crash course on Spring Boot 3.",
     "status": "PUBLISHED",
     "contentType": "VIDEO",
     "dateCreated": "2023-05-10T10:30:00.000000",
@@ -22,7 +22,7 @@
   {
     "id": null,
     "title": "Java Streams Explained",
-    "desc": "A deep dive into Java Streams with practical examples.",
+    "description": "A deep dive into Java Streams with practical examples.",
     "status": "IN_PROGRESS",
     "contentType": "VIDEO",
     "dateCreated": "2023-07-21T14:00:00.000000",
@@ -32,7 +32,7 @@
   {
     "id": null,
     "title": "Docker for Beginners",
-    "desc": "Learn Docker fundamentals and build your first container.",
+    "description": "Learn Docker fundamentals and build your first container.",
     "status": "PUBLISHED",
     "contentType": "VIDEO",
     "dateCreated": "2023-03-15T09:15:00.000000",
@@ -42,7 +42,7 @@
   {
     "id": null,
     "title": "Understanding REST APIs",
-    "desc": "An introduction to REST APIs and how they work.",
+    "description": "An introduction to REST APIs and how they work.",
     "status": "COMPLETED",
     "contentType": "VIDEO",
     "dateCreated": "2022-11-05T20:00:00.000000",
