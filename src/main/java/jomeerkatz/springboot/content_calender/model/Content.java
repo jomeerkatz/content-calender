@@ -11,8 +11,7 @@ public final record Content(
         Integer id,
                       @NotBlank // not empty/null
                       String title,
-                      @Column(value="description")
-                      String desc,
+                      String description,
                       Status status,
                       Type contentType,
                       LocalDateTime dateCreated,
