@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import java.io.InputStream;
 import java.util.List;
 
-@Profile("dev")
+@Profile("production")
 @Component
 public class DataLoader implements CommandLineRunner {
 
